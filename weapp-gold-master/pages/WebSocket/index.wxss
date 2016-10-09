@@ -1,0 +1,15 @@
+.input-style{    
+    text-shadow: red;
+    background: white;
+}
+
+.websocket-container{
+    border: 1px red;
+    
+}
+
+.text-center{
+    text-align: center ;
+
+}
+

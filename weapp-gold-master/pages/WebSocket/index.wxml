@@ -1,0 +1,24 @@
+<view class="page">
+    <view class="page-bd">
+        <form bindsubmit="formSubmit" >
+            <view class="section">
+                <input placeholder="asdfasdf" name="testInput"/> 
+            </view>
+            <view class="section section-gap">
+                
+            </view>
+            <view class="section">
+                <button form-type="submit" type="primary" >发送WebSocket请求</button>
+            </view>
+            <view class="section-gap">            
+            </view>
+            <view class="section text-center">
+                <text>{{msg}}</text>
+            </view>
+        </form>
+
+        <view bindtouchmove="touches" class="page-bd">
+            <text>asdfasdfasdfasdf</text>
+        </view>
+    </view>
+</view>

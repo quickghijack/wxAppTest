@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="textContainer">
+    <text class="textStyle">{{text}}</text>
+  </view>
+  <view class="section-canvas">
+    <canvas canvas-id="1" class="canvas" binderror="errorCanvas"
+     bindtouchmove="canvasTouchMove" bindtap="canvasTap" bindtouchend="canvasTouchEnd"></canvas>
+    <button class="section-button" type="primary" bindtap="buttonTap">测试</button>
+  </view>
+</view>

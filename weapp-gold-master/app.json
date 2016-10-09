@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/IDETest/IDETest",
+    "pages/WebSocket/index",
+    "pages/index/index",
+    "pages/entry/entry"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#006cff",
+    "navigationBarTitleText": "掘金"
+  }
+}
